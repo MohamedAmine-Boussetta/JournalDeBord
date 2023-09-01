@@ -9,5 +9,6 @@ J'ai choisi la technique d'intégration multimédia parce que depuis que je suis
 Quand j'ai choisi la technique, les cours qui me motivaient le plus étaient :
 1. La programmation
 1. La modélisation 3D
+
 Après la formation, je souhaite aller à l'université pour me spécialiser dans ce que j'aurais le plus aimer dans la technique, bien sûr après ça, je voudrais aller travailler pour une compagnie de jeux vidéos. Je n'ai toujours pas choisi laquelle, mais je me suis  dit que travailler à Riot Games:facepunch: ne devait pas être si mal, même si je dois aller aux États-Unis puisqu'ils n'ont pas de studio au Canada
 
