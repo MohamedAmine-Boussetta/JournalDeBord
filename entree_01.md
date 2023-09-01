@@ -4,9 +4,10 @@
 Vous ne vous rappelez plus comment créer le journal ou le modifier? [Ce tutoriel](https://youtu.be/lX3bpuLK_Sg) vous aide! 
 
 ## Pourquoi j'ai choisi l'intégration multimédia
-Expliquer en 5 à 10 lignes ce qui vous intéresse en TIM. Parlez de ce qui vous a fait choisir ce programme. Quel cours vous motive en particulier? Est-ce que vous avez déjà en tête un métier que vous aimeriez faire grâce à la formation? Insérez dans votre texte un mot en gras, un emoji et une liste à point. 
 
-[Ce tutoriel](https://guides.github.com/features/mastering-markdown/) vous aidera à avoir la bonne syntaxe lorsque vous écrirez dans votre journal. Vous pouvez aussi vous référez à [cette *cheatsheet*](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md). 
-
-
+J'ai choisi la technique d'intégration multimédia parce que depuis que je suis très jeune, j'ai toujours eu une passion pour le jeu vidéo. Je me souviens toujours du premier jeu que j'ai joué qui était **Pokémon Battle Arena 2 sur Nintendo 64**, depuis ce jour les jeux vidéo ont marqué la plupart de ma vie. 
+Quand j'ai choisi la technique, les cours qui me motivaient le plus étaient :
+1. La programmation
+1. La modélisation 3D
+Après la formation, je souhaite aller à l'université pour me spécialiser dans ce que j'aurais le plus aimer dans la technique, bien sûr après ça, je voudrais aller travailler pour une compagnie de jeux vidéos. Je n'ai toujours pas choisi laquelle, mais je me suis  dit que travailler à Riot Games:facepunch: ne devait pas être si mal, même si je dois aller aux États-Unis puisqu'ils n'ont pas de studio au Canada
 
