@@ -14,7 +14,7 @@ Le design graphique serait la chose que je voudrais faire si je ne serais pas tr
 ### Modelisation 3D
 C'est comme pour le design grapique, le fait de pouvoir rendre realiter toute les choses que tu imagine es une competence incroyable pour n'importe qui. Pouvoir cree des villes entiere grace a tes capaciter ou cree des environnements complet est une chose facinante et cool a faire et comme pour la programmation, quand tu fini enfin ton projet et que tu vois le resultat, tu es extremement content. En etant modelisateur, tu a une grande par dans un projet, parce que la plupart du visuel est faire par toi.
 
-### Emploi 5 - Identification
-4 à 5 lignes
+### Directeur de projet
+Tout le monde c'est deja imaginer entrain de guider une equipe pour pouvoir realiser un projet. Le travail de directeur sur un projet a l'air tres interessant, mais je crois qu'il est tres dur a atteindre. Il faut avoir beaucoup d'imagination et etre un bon leader pour que tout soit bien fait. C'est le poste ultime pour pouvoir avoir une des choses qu'on a imaginer devenir realiter et c'est pour cela que ce poste est tres interessant, mais il a aussi beaucoup de responsabiliter.
 
 
