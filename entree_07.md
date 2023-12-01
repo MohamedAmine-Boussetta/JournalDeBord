@@ -9,9 +9,9 @@ J'étais indifferent face a la presentation d'aujourd'hui, je crois pas quel m'a
 La présentation était quand mêmê claire, les idées étaient bien présenter et le point qu'elle voulait transmettre grace a sa présentation est passé
 
 ### Structure de la conférence (Entre 1 et 2 lignes)
-Comment avez-vous trouvé la clarté de la conférence? Est-ce que le développement était logique?
+La structure était bonne, ça se voyait que c'était bien préparer et que la structure avait été travailler avant de venir
 
 ### Qualité visuelle (Entre 1 et 2 lignes)
-Comment avez-vous trouvé la qualité visuelle de la conférence?Est-ce que l'esthétisme était de qualité?
+La visuelle n'a pas forcément attiré mon attention parce que ça n'avait pas l'air d'être très spéciale. C'était normal et il faisait son travail de montrer l'information.
 
 
