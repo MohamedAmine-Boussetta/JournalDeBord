@@ -3,14 +3,14 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-Résumer le projet en une phrase concise.   
-
+Je fais Monster Hunter, mais en Open World
 ### Moodboard
-Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
+![image](https://github.com/MohamedAmine-Boussetta/JournalDeBord/assets/143351621/0cce3caa-1716-4b99-9526-461ef4b328a3)
 
 ### Technologies
-Décrivez quelles seront les technologies utilisées dans votre projet. 
+Les technologies utilisées seront des ordinateurs.
 
 ### Tâches
-Quelles sont les tâches nécessaires à la réalisation de votre projet? 
+![image](https://github.com/MohamedAmine-Boussetta/JournalDeBord/assets/143351621/c9a04e5a-1d62-4651-bf07-266b7f6d953f)
+
 
